@@ -86,6 +86,4 @@ Note
 
 The .env file contains local database credentials and is not included in the repository. Use .env.example as a reference for setting up the database connection.
 
-Author
 
-Shravan Khatavkar
